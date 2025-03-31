@@ -148,6 +148,15 @@ footer {
 .footer--content h4 {
   color: #a59678;
 }
+
+.content1 h4, .content2 h4{
+  font-size: 1.3125rem;
+}
+.content1 p, .content2 .footer--links ul li a{
+  color: #6F737F;
+  font-size:1rem
+}
+
 .footer--content p {
   padding-top: 0.8em;
 
