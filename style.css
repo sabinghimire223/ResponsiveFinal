@@ -32,6 +32,7 @@ ul {
   list-style-type: none;
   padding: 0;
 }
+
 /* herolander */
 
 .herolander {
@@ -52,6 +53,9 @@ ul {
 
 .description p {
   font-size: 1.5rem;
+}
+.herolander .btn:focus {
+  background: #a78642;
 }
 .btn {
   font-size: 1.5rem;
